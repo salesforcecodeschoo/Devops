@@ -3,16 +3,4 @@ public with sharing class Calculator {
 
     }
 
-    public integer add(integer a, integer b)
-    {
-        return a+b;
-    }
-    public integer sub(integer a, integer b)
-    {
-        return a-b;
-    }
-    public integer mult(integer a, integer b)
-    {
-        return a*b;
-    }
 }
